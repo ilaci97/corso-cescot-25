@@ -1,0 +1,2 @@
+questo è un file di testo
+consente di verificare il funzionamento del controllo di versione
